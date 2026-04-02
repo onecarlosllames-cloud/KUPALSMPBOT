@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ILOVEMINORS-ckgQ.aternos.me:61173",
+    "ip": "ILOVEMINORS-ckgQ.aternos.me",
     "port": 61173,
     "version": "",
     "try-creative": false
